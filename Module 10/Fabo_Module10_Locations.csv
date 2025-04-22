@@ -1,0 +1,8 @@
+location_id,location_name,latitude,longitude,supply,demand
+1,Candy Cane Canyon,37.5,-102.5,9859.0,
+2,Coconut Cream Cove,44.94,-90.81,,1465.0
+3,Lava Lollipop Land,39.75,-93.41,,1242.0
+4,Macaron Market,37.78,-114.08,,1717.0
+5,Starburst Starlit Skies,31.84,-116.14,,1688.0
+6,Strawberry Swirl Stream,30.09,-91.83,,1750.0
+7,Toblerone Tower,31.1,-93.42,,1997.0
